@@ -1,7 +1,7 @@
 TDemo
 v7
 r0
-t322331095.774795
+t322347571.881644
 cCheck dependencies
 cProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Info.plist Demo-Info.plist
 cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/MainWindow.xib
@@ -72,9 +72,9 @@ s1448
 i"DemoViewController.h"
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib
-c000000004D862A55000000000000624A
-t1300638293
-s25162
+c000000004D862B11000000000000626B
+t1300638481
+s25195
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Demo_Prefix.pch
 c000000004D86088B00000000000000B1
@@ -94,20 +94,20 @@ t1300629643
 s8441
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app
-t1300638295
+t1300654771
 s306
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app.dSYM
-t1300638295
+t1300654771
 s102
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo
-t1300638295
+t1300654771
 s16852
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/DemoViewController.nib
-t1300638295
-s2068
+t1300654771
+s2069
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Icon.png
 t1300629772
@@ -135,8 +135,8 @@ t1300629772
 s427
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoAppDelegate.o
-t1300638295
-s52912
+t1300654771
+s53092
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoViewController.o
 t1300629773
@@ -168,11 +168,11 @@ s917
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322331095#322331095#0(0"0(0#1#0"8627246112#0"0#
+lSLF07#2@18"Check dependencies322347571#322347571#0(0"0(0#1#0"8599356160#0"0#
 
 CCompileC build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoAppDelegate.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322331095.645374
-e322331095.728788
+s322347571.683809
+e322347571.833561
 r1
 xCompileC
 xbuild/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoAppDelegate.o
@@ -181,7 +181,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m322331095#322331095#0(0"0(0#0#82"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m8627220160#2144"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Demo_Prefix-fgmbpqytzejbamecaakioqmsvgni/Demo_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoAppDelegate.o0#
+lSLF07#2@90"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m322347571#322347571#0(0"0(0#0#82"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m8606012960#2144"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Demo_Prefix-fgmbpqytzejbamecaakioqmsvgni/Demo_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoAppDelegate.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoAppDelegate.o0#
 
 CCompileC build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/DemoViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s322322573.709421
@@ -210,12 +210,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/main.m322322573#322322573#0(0"0(0#0#63"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/main.m8628285728#2114"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Demo_Prefix-fgmbpqytzejbamecaakioqmsvgni/Demo_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/main.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib
-s322331095.075055
-e322331095.645084
+s322347571.221151
+e322347571.683515
 r1
 xCompileXIB
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib
-lSLF07#2@41"CompileXIB Classes/DemoViewController.xib322331095#322331095#0(0"0(0#0#87"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib8617145696#707"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/DemoViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+lSLF07#2@41"CompileXIB Classes/DemoViewController.xib322347571#322347571#0(0"0(0#0#87"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib8599515744#707"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/DemoViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Classes/DemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
 CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/MainWindow.xib
 s322322572.321540
@@ -244,23 +244,23 @@ xlogotipo.png
 lSLF07#2@17"Copy logotipo.png322323445#322323445#0(0"0(0#0#69"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/logotipo.png8629140320#583"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/logotipo.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app0#
 
 CGenerateDSYMFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app.dSYM /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo
-s322331095.754080
-e322331095.771263
+s322347571.863159
+e322347571.878885
 r1
 xGenerateDSYMFile
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app.dSYM
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo
-lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Demo.app.dSYM build/Debug-iphonesimulator/Demo.app/Demo322331095#322331095#0(0"0(0#0#98"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo8622211072#490"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app.dSYM0#
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Demo.app.dSYM build/Debug-iphonesimulator/Demo.app/Demo322347571#322347571#0(0"0(0#0#98"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo8601265696#490"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app.dSYM0#
 
 CLd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo normal i386
-s322331095.728881
-e322331095.753982
+s322347571.833654
+e322347571.863055
 r1
 xLd
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo
 xnormal
 xi386
-lSLF07#2@103"Link /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo322331095#322331095#0(0"0(0#0#0"8624214528#1037"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -filelist /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/Demo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo0#
+lSLF07#2@103"Link /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo322347571#322347571#0(0"0(0#0#0"8603989632#1037"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -filelist /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Objects-normal/i386/Demo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Demo0#
 
 CProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app/Info.plist Demo-Info.plist
 s322322572.317792
@@ -285,10 +285,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@26"Precompile Demo_Prefix.pch322322572#322322573#0(0"0(0#0#72"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Demo_Prefix.pch8626858976#1991"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/Demo-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Demo.build/Debug-iphonesimulator/Demo.build/DerivedSources -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Demo_Prefix.pch -o /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Demo_Prefix-fgmbpqytzejbamecaakioqmsvgni/Demo_Prefix.pch.gch0#
 
 CTouch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app
-s322331095.771348
-e322331095.774749
+s322347571.878969
+e322347571.881604
 r1
 xTouch
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app
-lSLF07#2@99"Touch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app322331095#322331095#0(0"0(0#0#0"8621747520#373"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app0#
+lSLF07#2@99"Touch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app322347571#322347571#0(0"0(0#0#0"8600252448#373"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/build/Debug-iphonesimulator/Demo.app0#
 

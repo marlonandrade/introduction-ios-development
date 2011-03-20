@@ -39,7 +39,7 @@
 					20,
 					731,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -54,10 +54,11 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 322321718;
-			PBXWorkspaceStateSaveDate = 322321718;
+			PBXPerProjectTemplateStateSaveDate = 322347530;
+			PBXWorkspaceStateSaveDate = 322347530;
 		};
 		perUserProjectItems = {
+			BF96906C1336A214003B559D /* PBXBookmark */ = BF96906C1336A214003B559D /* PBXBookmark */;
 			BFFF0AF41336731000B76786 /* PBXBookmark */ = BFFF0AF41336731000B76786 /* PBXBookmark */;
 			BFFF0AF51336731000B76786 /* PBXTextBookmark */ = BFFF0AF51336731000B76786 /* PBXTextBookmark */;
 			BFFF0AF61336731000B76786 /* PlistBookmark */ = BFFF0AF61336731000B76786 /* PlistBookmark */;
@@ -74,12 +75,15 @@
 			BFFF0B011336731000B76786 /* PBXTextBookmark */ = BFFF0B011336731000B76786 /* PBXTextBookmark */;
 			BFFF0B021336731000B76786 /* PBXTextBookmark */ = BFFF0B021336731000B76786 /* PBXTextBookmark */;
 			BFFF0B031336731000B76786 /* PBXTextBookmark */ = BFFF0B031336731000B76786 /* PBXTextBookmark */;
-			BFFF0B041336731000B76786 /* PBXBookmark */ = BFFF0B041336731000B76786 /* PBXBookmark */;
 			BFFF0B051336731000B76786 /* PBXBookmark */ = BFFF0B051336731000B76786 /* PBXBookmark */;
 		};
 		sourceControlManager = BFFF0A1913363D4200B76786 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	BF96906C1336A214003B559D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BFFF0A991336670400B76786 /* next-hover.png */;
 	};
 	BFFF0A0F13363D3600B76786 /* Motivacao */ = {
 		isa = PBXExecutable;
@@ -223,7 +227,7 @@
 		);
 		name = "/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Motivacao-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	BFFF0AF71336731000B76786 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -348,10 +352,6 @@
 		rType = 0;
 		vrLen = 1142;
 		vrLoc = 0;
-	};
-	BFFF0B041336731000B76786 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = BFFF0A991336670400B76786 /* next-hover.png */;
 	};
 	BFFF0B051336731000B76786 /* PBXBookmark */ = {
 		isa = PBXBookmark;

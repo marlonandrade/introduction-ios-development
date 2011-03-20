@@ -2,9 +2,9 @@
 {
 	1D3623250D0F684500981E51 /* DemoAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 1620}}";
-			sepNavSelRange = "{593, 0}";
-			sepNavVisRange = "{324, 557}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1665}}";
+			sepNavSelRange = "{595, 0}";
+			sepNavVisRange = "{324, 536}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Demo */ = {
@@ -32,7 +32,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -47,21 +47,31 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 322322443;
-			PBXWorkspaceStateSaveDate = 322322443;
+			PBXPerProjectTemplateStateSaveDate = 322347569;
+			PBXWorkspaceStateSaveDate = 322347569;
 		};
 		perUserProjectItems = {
+			BF9690A81336A238003B559D /* PBXTextBookmark */ = BF9690A81336A238003B559D /* PBXTextBookmark */;
 			BFFF0AD9133672D200B76786 /* PBXBookmark */ = BFFF0AD9133672D200B76786 /* PBXBookmark */;
 			BFFF0ADA133672D200B76786 /* PlistBookmark */ = BFFF0ADA133672D200B76786 /* PlistBookmark */;
 			BFFF0ADB133672D200B76786 /* PBXTextBookmark */ = BFFF0ADB133672D200B76786 /* PBXTextBookmark */;
 			BFFF0ADC133672D200B76786 /* PBXBookmark */ = BFFF0ADC133672D200B76786 /* PBXBookmark */;
 			BFFF0ADD133672D200B76786 /* PBXTextBookmark */ = BFFF0ADD133672D200B76786 /* PBXTextBookmark */;
-			BFFF0ADE133672D200B76786 /* PBXTextBookmark */ = BFFF0ADE133672D200B76786 /* PBXTextBookmark */;
 			BFFF0ADF133672D200B76786 /* PBXTextBookmark */ = BFFF0ADF133672D200B76786 /* PBXTextBookmark */;
 		};
 		sourceControlManager = BFFF0A6D1336401700B76786 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	BF9690A81336A238003B559D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DemoAppDelegate.m */;
+		name = "DemoAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 595;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 324;
 	};
 	BFFF0A661336400B00B76786 /* Demo */ = {
 		isa = PBXExecutable;
@@ -133,7 +143,7 @@
 		);
 		name = "/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Demo/Demo-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	BFFF0ADB133672D200B76786 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -158,16 +168,6 @@
 		rType = 0;
 		vrLen = 442;
 		vrLoc = 0;
-	};
-	BFFF0ADE133672D200B76786 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* DemoAppDelegate.m */;
-		name = "DemoAppDelegate.m: 36";
-		rLen = 0;
-		rLoc = 855;
-		rType = 0;
-		vrLen = 411;
-		vrLoc = 490;
 	};
 	BFFF0ADF133672D200B76786 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

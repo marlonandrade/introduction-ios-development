@@ -69,16 +69,16 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 322341536;
-			PBXWorkspaceStateSaveDate = 322341536;
+			PBXPerProjectTemplateStateSaveDate = 322347558;
+			PBXWorkspaceStateSaveDate = 322347558;
 		};
 		perUserProjectItems = {
+			BF9690941336A22E003B559D /* PBXTextBookmark */ = BF9690941336A22E003B559D /* PBXTextBookmark */;
 			BFFF0C3D13367C4C00B76786 /* PlistBookmark */ = BFFF0C3D13367C4C00B76786 /* PlistBookmark */;
 			BFFF0CEC13369E9200B76786 /* PBXTextBookmark */ = BFFF0CEC13369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CED13369E9200B76786 /* PBXTextBookmark */ = BFFF0CED13369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CEE13369E9200B76786 /* PBXTextBookmark */ = BFFF0CEE13369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CEF13369E9200B76786 /* PBXTextBookmark */ = BFFF0CEF13369E9200B76786 /* PBXTextBookmark */;
-			BFFF0CF013369E9200B76786 /* PBXTextBookmark */ = BFFF0CF013369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CF113369E9200B76786 /* PBXTextBookmark */ = BFFF0CF113369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CF213369E9200B76786 /* PBXTextBookmark */ = BFFF0CF213369E9200B76786 /* PBXTextBookmark */;
 			BFFF0CF413369E9200B76786 /* PBXTextBookmark */ = BFFF0CF413369E9200B76786 /* PBXTextBookmark */;
@@ -94,6 +94,16 @@
 		sourceControlManager = BFFF0A5813363F7400B76786 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	BF9690941336A22E003B559D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFFF0A5B13363F8800B76786 /* PlataformaViewController.m */;
+		name = "PlataformaViewController.m: 35";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 756;
 	};
 	BFFF0A5113363F6800B76786 /* Plataforma */ = {
 		isa = PBXExecutable;
@@ -146,9 +156,9 @@
 	};
 	BFFF0A5B13363F8800B76786 /* PlataformaViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 1515}}";
-			sepNavSelRange = "{987, 0}";
-			sepNavVisRange = "{756, 901}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1500}}";
+			sepNavSelRange = "{1013, 0}";
+			sepNavVisRange = "{756, 872}";
 		};
 	};
 	BFFF0C3D13367C4C00B76786 /* PlistBookmark */ = {
@@ -280,16 +290,6 @@
 		rType = 0;
 		vrLen = 317;
 		vrLoc = 52;
-	};
-	BFFF0CF013369E9200B76786 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = BFFF0A5B13363F8800B76786 /* PlataformaViewController.m */;
-		name = "PlataformaViewController.m: 25";
-		rLen = 0;
-		rLoc = 694;
-		rType = 0;
-		vrLen = 468;
-		vrLoc = 546;
 	};
 	BFFF0CF113369E9200B76786 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

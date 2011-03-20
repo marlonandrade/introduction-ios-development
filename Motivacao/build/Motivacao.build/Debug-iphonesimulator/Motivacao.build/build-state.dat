@@ -1,7 +1,7 @@
 TMotivacao
 v7
 r0
-t322335195.563921
+t322347534.145766
 cCheck dependencies
 cProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Info.plist Motivacao-Info.plist
 cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/MainWindow.xib
@@ -204,11 +204,11 @@ t1300641914
 s12431
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app
-t1300642395
+t1300654734
 s646
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app.dSYM
-t1300642395
+t1300654734
 s102
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/ConsumoViewController.nib
@@ -240,7 +240,7 @@ t1300641181
 s2398
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao
-t1300642395
+t1300654734
 s26720
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/MotivacaoViewController.nib
@@ -284,7 +284,7 @@ t1300642379
 s39732
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/DiversidadeViewController.o
-t1300642395
+t1300654734
 s39832
 
 N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/FuturoViewController.o
@@ -358,7 +358,7 @@ s913
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322335194#322335194#0(0"0(0#1#0"8628405888#0"0#
+lSLF07#2@18"Check dependencies322347534#322347534#0(0"0(0#1#0"3343187568374212096#0"0#
 
 CCompileC build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/ConsumoViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/ConsumoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s322335179.530349
@@ -374,8 +374,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@101"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/ConsumoViewController.m322335179#322335179#0(0"0(0#0#93"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/ConsumoViewController.m8623331968#2311"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Motivacao_Prefix-aleszuyuzrodeuekozmyutfukuqh/Motivacao_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/ConsumoViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/ConsumoViewController.o0#
 
 CCompileC build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/DiversidadeViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322335195.413100
-e322335195.488510
+s322347534.022733
+e322347534.090906
 r1
 xCompileC
 xbuild/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/DiversidadeViewController.o
@@ -384,7 +384,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m322335195#322335195#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m8590289536#2319"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Motivacao_Prefix-aleszuyuzrodeuekozmyutfukuqh/Motivacao_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/DiversidadeViewController.o0#
+lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m322347534#322347534#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m8028075772678661120#2319"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Motivacao_Prefix-aleszuyuzrodeuekozmyutfukuqh/Motivacao_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/DiversidadeViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/DiversidadeViewController.o0#
 
 CCompileC build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/FuturoViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Classes/FuturoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s322335096.997980
@@ -584,23 +584,23 @@ xnext.png
 lSLF07#2@13"Copy next.png322332319#322332319#0(0"0(0#0#70"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/next.png8629165056#599"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/next.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app0#
 
 CGenerateDSYMFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app.dSYM /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao
-s322335195.520025
-e322335195.560790
+s322347534.116820
+e322347534.142557
 r1
 xGenerateDSYMFile
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app.dSYM
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao
-lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Motivacao.app.dSYM build/Debug-iphonesimulator/Motivacao.app/Motivacao322335195#322335195#0(0"0(0#0#113"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao8625073664#520"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app.dSYM0#
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Motivacao.app.dSYM build/Debug-iphonesimulator/Motivacao.app/Motivacao322347534#322347534#0(0"0(0#0#113"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao8604371168#520"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app.dSYM0#
 
 CLd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao normal i386
-s322335195.488601
-e322335195.519909
+s322347534.091014
+e322347534.116725
 r1
 xLd
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao
 xnormal
 xi386
-lSLF07#2@118"Link /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao322335195#322335195#0(0"0(0#0#0"8627595616#1087"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -filelist /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/Motivacao.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao0#
+lSLF07#2@118"Link /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao322347534#322347534#0(0"0(0#0#0"8603440352#1087"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -filelist /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Objects-normal/i386/Motivacao.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Motivacao0#
 
 CProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app/Info.plist Motivacao-Info.plist
 s322331660.227214
@@ -625,10 +625,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile Motivacao_Prefix.pch322321751#322321752#0(0"0(0#0#82"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Motivacao_Prefix.pch8615664704#2136"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/Motivacao-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Motivacao.build/Debug-iphonesimulator/Motivacao.build/DerivedSources -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/Motivacao_Prefix.pch -o /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Motivacao_Prefix-aleszuyuzrodeuekozmyutfukuqh/Motivacao_Prefix.pch.gch0#
 
 CTouch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app
-s322335195.560877
-e322335195.563872
+s322347534.142647
+e322347534.145535
 r1
 xTouch
 x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app
-lSLF07#2@109"Touch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app322335195#322335195#0(0"0(0#0#0"8629399968#388"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app0#
+lSLF07#2@109"Touch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app322347534#322347534#0(0"0(0#0#0"8604060896#388"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Motivacao/build/Debug-iphonesimulator/Motivacao.app0#
 
