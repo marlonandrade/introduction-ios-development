@@ -1,0 +1,258 @@
+TRequisitos
+v7
+r0
+t322322237.108266
+cCheck dependencies
+cProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Info.plist Requisitos-Info.plist
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Requisitos.app/Icon.png Icon.png
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib
+cProcessPCH /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch.gch Requisitos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/main.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosAppDelegate.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D7B995B000000000074D7B0
+t1299945819
+s7657392
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.h
+c000000004D860732000000000000014F
+t1300629298
+s335
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m
+c000000004D8607B80000000000000B19
+t1300629432
+s2841
+i"RequisitosAppDelegate.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.h
+c000000004D86075300000000000000F6
+t1300629331
+s246
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m
+c000000004D86075300000000000005C0
+t1300629331
+s1472
+i"RequisitosViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib
+c000000004D8607530000000000001883
+t1300629331
+s6275
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Icon.png
+c000000004D86001300000000000015EC
+t1300627475
+s5612
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib
+c000000004D8607320000000000002117
+t1300629298
+s8471
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Requisitos_Prefix.pch
+c000000004D86073200000000000000BD
+t1300629298
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app
+t2
+s0
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app.dSYM
+t2
+s0
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Icon.png
+t1300629435
+s5612
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Info.plist
+t1300629435
+s637
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/MainWindow.nib
+t1300629436
+s987
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/PkgInfo
+t1300629435
+s8
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Requisitos
+t2
+s0
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/RequisitosViewController.nib
+t1300629436
+s764
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/Requisitos.LinkFileList
+c000000004D8607BB00000000000001ED
+t1300629435
+s493
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosAppDelegate.o
+t2
+s0
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosViewController.o
+t1300629437
+s37812
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/main.o
+t1300629437
+s6352
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m
+c000000004D860732000000000000016B
+t1300629298
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch.gch
+t1300629436
+s15453392
+
+NRequisitos-Info.plist
+c000000004D8607BB0000000000000395
+t1300629435
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322322235#322322235#0(0"0(0#1#0"8623118432#0"0#
+
+CCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosAppDelegate.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322236.973013
+e322322237.041423
+r0
+xCompileC
+xbuild/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosAppDelegate.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m: In function '-[RequisitosAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: 'RequisitosViewController' undeclared (first use in this function)
+o/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: (Each undeclared identifier is reported only once
+o/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: for each function it appears in.)
+o/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: 'rvc' undeclared (first use in this function)
+lSLF07#2@102"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m322322236#322322237#0(800"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m: In function '-[RequisitosAppDelegate application:didFinishLaunchingWithOptions:]':/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: 'RequisitosViewController' undeclared (first use in this function)/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: (Each undeclared identifier is reported only once/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: for each function it appears in.)/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m:27: error: 'rvc' undeclared (first use in this function)2(4@66"'RequisitosViewController' undeclared (first use in this function)322322237#179#173#0(6@94"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m322322232#27#0#27#0#43"'*' undeclared (first use in this function)0(4@45"'rvc' undeclared (first use in this function)322322237#648#152#0(6@94"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m322322232#27#0#27#0#43"'*' undeclared (first use in this function)0(0#0#94"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m8622090624#2342"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosAppDelegate.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosAppDelegate.o1#
+
+CCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322237.040224
+e322322237.108186
+r1
+xCompileC
+xbuild/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m322322237#322322237#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m8614889184#2348"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/RequisitosViewController.o0#
+
+CCompileC build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/main.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322236.971827
+e322322237.040051
+r1
+xCompileC
+xbuild/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/main.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m322322236#322322237#0(0"0(0#0#69"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m8622825760#2300"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/main.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib
+s322322235.756220
+e322322236.177756
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib
+lSLF07#2@47"CompileXIB Classes/RequisitosViewController.xib322322235#322322236#0(0"0(0#0#99"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib8624525952#743"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/RequisitosViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Classes/RequisitosViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib
+s322322235.750698
+e322322236.160934
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322322235#322322236#0(0"0(0#0#77"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib8621712480#707"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/MainWindow.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Requisitos.app/Icon.png Icon.png
+s322322235.754103
+e322322235.762480
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Requisitos.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png322322235#322322235#0(0"0(0#0#71"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Icon.png8616689952#603"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Icon.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app0#
+
+CGenerateDSYMFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app.dSYM /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Requisitos
+r0
+
+CLd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Requisitos normal i386
+r0
+
+CProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Info.plist Requisitos-Info.plist
+s322322235.734429
+e322322235.750604
+r1
+xProcessInfoPlistFile
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Info.plist
+xRequisitos-Info.plist
+lSLF07#2@29"Process Requisitos-Info.plist322322235#322322235#0(0"0(0#0#84"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Requisitos-Info.plist8622066336#622"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Requisitos-Info.plist -genpkginfo /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app/Info.plist0#
+
+CProcessPCH /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch.gch Requisitos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322236.177878
+e322322236.971729
+r1
+xProcessPCH
+x/var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch.gch
+xRequisitos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Requisitos_Prefix.pch322322236#322322236#0(0"0(0#0#84"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Requisitos_Prefix.pch8623385728#2165"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/Requisitos-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Requisitos.build/Debug-iphonesimulator/Requisitos.build/DerivedSources -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/Requisitos_Prefix.pch -o /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Requisitos_Prefix-claesehahvxrfdehkpgrodhoiuqc/Requisitos_Prefix.pch.gch0#
+
+CTouch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Requisitos/build/Debug-iphonesimulator/Requisitos.app
+r0
+

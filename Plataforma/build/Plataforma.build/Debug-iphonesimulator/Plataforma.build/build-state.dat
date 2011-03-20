@@ -1,0 +1,850 @@
+TPlataforma
+v7
+r0
+t322346864.314668
+cCheck dependencies
+cProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Info.plist Plataforma-Info.plist
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Plataforma.app/Icon.png Icon.png
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib
+cCpResource build/Debug-iphonesimulator/Plataforma.app/logotipo.png logotipo.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/next-hover.png next-hover.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/next.png next.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/instruments.png instruments.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/interfacebuilder.png interfacebuilder.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/iphonesimulator.png iphonesimulator.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/xcode.png xcode.png
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib
+cCpResource build/Debug-iphonesimulator/Plataforma.app/down.png down.png
+cCpResource build/Debug-iphonesimulator/Plataforma.app/up.png up.png
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib
+cCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib
+cProcessPCH /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch.gch Plataforma_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/main.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaAppDelegate.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/ObjCViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FerramentasViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FrameworksViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PatternsViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreOSViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreServiceViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/MediaViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CocoaTouchViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma normal i386
+cGenerateDSYMFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app.dSYM /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma
+cTouch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D7B995B000000000074D7B0
+t1299945819
+s7657392
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.h
+c000000004D8664E000000000000000F6
+t1300653280
+s246
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m
+c000000004D8664E000000000000005C0
+t1300653280
+s1472
+i"CocoaTouchViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib
+c000000004D8666EB0000000000007B98
+t1300653803
+s31640
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.h
+c000000004D8664AB00000000000000EE
+t1300653227
+s238
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m
+c000000004D8664AB00000000000005B4
+t1300653227
+s1460
+i"CoreOSViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib
+c000000004D86661C0000000000007B3E
+t1300653596
+s31550
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.h
+c000000004D8664CF00000000000000F8
+t1300653263
+s248
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m
+c000000004D8664CF00000000000005C3
+t1300653263
+s1475
+i"CoreServiceViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib
+c000000004D8666630000000000007BAB
+t1300653667
+s31659
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.h
+c000000004D865DCA00000000000000F8
+t1300651466
+s248
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m
+c000000004D865DCA00000000000005C3
+t1300651466
+s1475
+i"FerramentasViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib
+c000000004D8661C50000000000006EE7
+t1300652485
+s28391
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.h
+c000000004D866730000000000000016B
+t1300653872
+s363
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m
+c000000004D8667EF0000000000000A22
+t1300654063
+s2594
+i"FrameworksViewController.h"
+i"CocoaTouchViewController.h"
+i"MediaViewController.h"
+i"CoreServiceViewController.h"
+i"CoreOSViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib
+c000000004D86649B0000000000007AFF
+t1300653211
+s31487
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.h
+c000000004D8664D700000000000000EC
+t1300653271
+s236
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m
+c000000004D8664D700000000000005B1
+t1300653271
+s1457
+i"MediaViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib
+c000000004D8666B00000000000007B97
+t1300653744
+s31639
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.h
+c000000004D865A8800000000000000EA
+t1300650632
+s234
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m
+c000000004D865A8800000000000005AE
+t1300650632
+s1454
+i"ObjCViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib
+c000000004D8660ED0000000000009FD3
+t1300652269
+s40915
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.h
+c000000004D865DFF00000000000000F2
+t1300651519
+s242
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m
+c000000004D865DFF00000000000005BA
+t1300651519
+s1466
+i"PatternsViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib
+c000000004D865E0A0000000000004359
+t1300651530
+s17241
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.h
+c000000004D8607E8000000000000014F
+t1300629480
+s335
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m
+c000000004D8653540000000000000B73
+t1300648788
+s2931
+i"PlataformaAppDelegate.h"
+i"PlataformaViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.h
+c000000004D865E250000000000000171
+t1300651557
+s369
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m
+c000000004D86697B0000000000000AAD
+t1300654459
+s2733
+i"PlataformaViewController.h"
+i"ObjCViewController.h"
+i"FerramentasViewController.h"
+i"FrameworksViewController.h"
+i"PatternsViewController.h"
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib
+c000000004D865F350000000000007845
+t1300651829
+s30789
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Icon.png
+c000000004D86005F0000000000001CDD
+t1300627551
+s7389
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib
+c000000004D8607E80000000000002117
+t1300629480
+s8471
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Plataforma_Prefix.pch
+c000000004D8607E800000000000000BD
+t1300629480
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app
+t1300654064
+s850
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app.dSYM
+t1300654064
+s102
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CocoaTouchViewController.nib
+t1300654055
+s2582
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CoreOSViewController.nib
+t1300654054
+s2583
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CoreServiceViewController.nib
+t1300654055
+s2591
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/FerramentasViewController.nib
+t1300652845
+s2254
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/FrameworksViewController.nib
+t1300654054
+s2977
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Icon.png
+t1300629623
+s7389
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Info.plist
+t1300629623
+s637
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/MainWindow.nib
+t1300629624
+s987
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/MediaViewController.nib
+t1300654055
+s2597
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/ObjCViewController.nib
+t1300652845
+s3502
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PatternsViewController.nib
+t1300651791
+s1041
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PkgInfo
+t1300629623
+s8
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma
+t1300654064
+s30364
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PlataformaViewController.nib
+t1300651830
+s2646
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/down.png
+t1300654054
+s1807
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/instruments.png
+t1300651327
+s4875
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/interfacebuilder.png
+t1300651327
+s5168
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/iphonesimulator.png
+t1300651327
+s4698
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/logotipo.png
+t1300651327
+s5252
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/mvc.png
+t2
+s0
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/next-hover.png
+t1300651327
+s3404
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/next.png
+t1300651327
+s3426
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/up.png
+t1300654054
+s1555
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/xcode.png
+t1300651327
+s5309
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CocoaTouchViewController.o
+t1300654056
+s37812
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreOSViewController.o
+t1300654056
+s37728
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreServiceViewController.o
+t1300654056
+s37832
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FerramentasViewController.o
+t1300651791
+s37832
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FrameworksViewController.o
+t1300654064
+s43548
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/MediaViewController.o
+t1300654056
+s37708
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/ObjCViewController.o
+t1300651328
+s37684
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PatternsViewController.o
+t1300651791
+s37768
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/Plataforma.LinkFileList
+c000000004D8667E6000000000000073E
+t1300654054
+s1854
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaAppDelegate.o
+t1300651791
+s53424
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaViewController.o
+t1300654056
+s43748
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/main.o
+t1300629625
+s6352
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/down.png
+c000000004D866428000000000000070F
+t1300653096
+s1807
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/instruments.png
+c000000004D864ED4000000000000130B
+t1300647636
+s4875
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/interfacebuilder.png
+c000000004D864ECB0000000000001430
+t1300647627
+s5168
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/iphonesimulator.png
+c000000004D864ED0000000000000125A
+t1300647632
+s4698
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/logotipo.png
+c000000004D85F7990000000000001484
+t1300625305
+s5252
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m
+c000000004D8607E8000000000000016B
+t1300629480
+s363
+i<UIKit/UIKit.h>
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/mvc.png
+c000000004D866866000000000013748E
+t1300654182
+s1275022
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next-hover.png
+c000000004D862F570000000000000D4C
+t1300639575
+s3404
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next.png
+c000000004D862E2F0000000000000D62
+t1300639279
+s3426
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/up.png
+c000000004D86642B0000000000000613
+t1300653099
+s1555
+
+N/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/xcode.png
+c000000004D864EC700000000000014BD
+t1300647623
+s5309
+
+N/var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch.gch
+t1300629624
+s15453392
+
+NPlataforma-Info.plist
+c000000004D8608770000000000000395
+t1300629623
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322346864#322346864#0(0"0(0#1#0"8628704896#0"0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CocoaTouchViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346856.227312
+e322346856.301501
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CocoaTouchViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m322346856#322346856#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m8614760960#2348"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CocoaTouchViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreOSViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346856.062123
+e322346856.146696
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreOSViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m322346856#322346856#0(0"0(0#0#93"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m8627030464#2340"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreOSViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreServiceViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346856.146801
+e322346856.227212
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreServiceViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m322346856#322346856#0(0"0(0#0#98"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m8614837472#2350"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/CoreServiceViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FerramentasViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322344591.435410
+e322344591.545896
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FerramentasViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m322344591#322344591#0(0"0(0#0#98"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m8624408288#2350"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FerramentasViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FrameworksViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346864.112805
+e322346864.252761
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FrameworksViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m322346864#322346864#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m8614677184#2348"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/FrameworksViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/MediaViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346856.148099
+e322346856.247926
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/MediaViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m322346856#322346856#0(0"0(0#0#92"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m8623316288#2338"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/MediaViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/ObjCViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322344128.139694
+e322344128.247086
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/ObjCViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m322344128#322344128#0(0"0(0#0#91"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m8624629536#2336"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/ObjCViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PatternsViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322344591.546006
+e322344591.618408
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PatternsViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m322344591#322344591#0(0"0(0#0#95"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m8606763424#2344"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PatternsViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaAppDelegate.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322344591.310700
+e322344591.435116
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaAppDelegate.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m322344591#322344591#0(0"0(0#0#94"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m8623676640#2342"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaAppDelegate.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaAppDelegate.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaViewController.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346855.960816
+e322346856.061871
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaViewController.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m322346855#322346856#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m8628667904#2348"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/PlataformaViewController.o0#
+
+CCompileC build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/main.o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322425.005409
+e322322425.106641
+r1
+xCompileC
+xbuild/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/main.o
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m322322425#322322425#0(0"0(0#0#69"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m8621788608#2300"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -include /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/main.m -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib
+s322346855.474090
+e322346855.960278
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib
+lSLF07#2@47"CompileXIB Classes/CocoaTouchViewController.xib322346855#322346855#0(0"0(0#0#99"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib8623620000#743"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CocoaTouchViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CocoaTouchViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib
+s322346854.279978
+e322346854.842866
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib
+lSLF07#2@43"CompileXIB Classes/CoreOSViewController.xib322346854#322346854#0(0"0(0#0#95"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib8623891360#735"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CoreOSViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreOSViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib
+s322346854.842958
+e322346855.484266
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib
+lSLF07#2@48"CompileXIB Classes/CoreServiceViewController.xib322346854#322346855#0(0"0(0#0#100"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib8624617696#745"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/CoreServiceViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/CoreServiceViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib
+s322345644.604060
+e322345645.416870
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib
+lSLF07#2@48"CompileXIB Classes/FerramentasViewController.xib322345644#322345645#0(0"0(0#0#100"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib8622568288#745"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/FerramentasViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FerramentasViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib
+s322346854.265471
+e322346854.852776
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib
+lSLF07#2@47"CompileXIB Classes/FrameworksViewController.xib322346854#322346854#0(0"0(0#0#99"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib8624121824#743"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/FrameworksViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/FrameworksViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib
+s322346854.852902
+e322346855.473997
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib
+lSLF07#2@42"CompileXIB Classes/MediaViewController.xib322346854#322346855#0(0"0(0#0#94"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib8624138848#733"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/MediaViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/MediaViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib
+s322345644.603064
+e322345645.556648
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib
+lSLF07#2@41"CompileXIB Classes/ObjCViewController.xib322345644#322345645#0(0"0(0#0#93"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib8622707840#731"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/ObjCViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/ObjCViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib
+s322344590.892628
+e322344591.310402
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib
+lSLF07#2@45"CompileXIB Classes/PatternsViewController.xib322344590#322344591#0(0"0(0#0#97"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib8616098432#739"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PatternsViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PatternsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib
+s322344630.042635
+e322344630.508848
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib
+lSLF07#2@47"CompileXIB Classes/PlataformaViewController.xib322344630#322344630#0(0"0(0#0#99"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib8614035840#743"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PlataformaViewController.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Classes/PlataformaViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib
+s322322423.723658
+e322322424.132745
+r1
+xCompileXIB
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322322423#322322424#0(0"0(0#0#77"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib8622872576#707"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/MainWindow.nib /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/Icon.png Icon.png
+s322322423.724586
+e322322423.736593
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png322322423#322322423#0(0"0(0#0#71"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Icon.png8622781312#603"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Icon.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/down.png down.png
+s322346854.266475
+e322346854.281160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/down.png
+xdown.png
+lSLF07#2@13"Copy down.png322346854#322346854#0(0"0(0#0#71"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/down.png8623990080#603"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/down.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/instruments.png instruments.png
+s322344127.477977
+e322344127.497471
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/instruments.png
+xinstruments.png
+lSLF07#2@20"Copy instruments.png322344127#322344127#0(0"0(0#0#78"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/instruments.png8617740000#610"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/instruments.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/interfacebuilder.png interfacebuilder.png
+s322344127.481083
+e322344127.497621
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/interfacebuilder.png
+xinterfacebuilder.png
+lSLF07#2@25"Copy interfacebuilder.png322344127#322344127#0(0"0(0#0#83"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/interfacebuilder.png8616862304#615"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/interfacebuilder.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/iphonesimulator.png iphonesimulator.png
+s322344127.486194
+e322344127.497730
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/iphonesimulator.png
+xiphonesimulator.png
+lSLF07#2@24"Copy iphonesimulator.png322344127#322344127#0(0"0(0#0#82"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/iphonesimulator.png8616218144#614"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/iphonesimulator.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/logotipo.png logotipo.png
+s322344127.463129
+e322344127.497065
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/logotipo.png
+xlogotipo.png
+lSLF07#2@17"Copy logotipo.png322344127#322344127#0(0"0(0#0#75"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/logotipo.png8627006144#607"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/logotipo.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/mvc.png mvc.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/next-hover.png next-hover.png
+s322344127.465205
+e322344127.497222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/next-hover.png
+xnext-hover.png
+lSLF07#2@19"Copy next-hover.png322344127#322344127#0(0"0(0#0#77"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next-hover.png8624405120#609"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next-hover.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/next.png next.png
+s322344127.476168
+e322344127.497362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/next.png
+xnext.png
+lSLF07#2@13"Copy next.png322344127#322344127#0(0"0(0#0#71"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next.png8621988416#603"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/next.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/up.png up.png
+s322346854.267110
+e322346854.286698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/up.png
+xup.png
+lSLF07#2@11"Copy up.png322346854#322346854#0(0"0(0#0#69"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/up.png8623960704#601"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/up.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CCpResource build/Debug-iphonesimulator/Plataforma.app/xcode.png xcode.png
+s322344127.487709
+e322344127.497841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Plataforma.app/xcode.png
+xxcode.png
+lSLF07#2@14"Copy xcode.png322344127#322344127#0(0"0(0#0#72"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/xcode.png8615835104#604"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/xcode.png /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
+CGenerateDSYMFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app.dSYM /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma
+s322346864.280142
+e322346864.311779
+r1
+xGenerateDSYMFile
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app.dSYM
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Plataforma.app.dSYM build/Debug-iphonesimulator/Plataforma.app/Plataforma322346864#322346864#0(0"0(0#0#116"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma8621566496#526"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app.dSYM0#
+
+CLd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma normal i386
+s322346864.252849
+e322346864.280030
+r1
+xLd
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma
+xnormal
+xi386
+lSLF07#2@121"Link /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma322346864#322346864#0(0"0(0#0#0"8614284832#1097"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -filelist /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Objects-normal/i386/Plataforma.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Plataforma0#
+
+CProcessInfoPlistFile /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Info.plist Plataforma-Info.plist
+s322322423.716818
+e322322423.723571
+r1
+xProcessInfoPlistFile
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Info.plist
+xPlataforma-Info.plist
+lSLF07#2@29"Process Plataforma-Info.plist322322423#322322423#0(0"0(0#0#84"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Plataforma-Info.plist8627139840#622"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Plataforma-Info.plist -genpkginfo /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app/Info.plist0#
+
+CProcessPCH /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch.gch Plataforma_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322322424.134704
+e322322425.005286
+r1
+xProcessPCH
+x/var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch.gch
+xPlataforma_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Plataforma_Prefix.pch322322424#322322425#0(0"0(0#0#84"/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Plataforma_Prefix.pch8628873344#2165"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-generated-files.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-own-target-headers.hmap -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-all-target-headers.hmap -iquote /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/Plataforma-project-headers.hmap -F/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/include -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources/i386 -I/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Plataforma.build/Debug-iphonesimulator/Plataforma.build/DerivedSources -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/Plataforma_Prefix.pch -o /var/folders/y6/y6L2OlqPELKKdCKEBUqcLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Plataforma_Prefix-apprzsmieiibghadyuazdtqtdbsv/Plataforma_Prefix.pch.gch0#
+
+CTouch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app
+s322346864.311871
+e322346864.314623
+r1
+xTouch
+x/Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app
+lSLF07#2@111"Touch /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app322346864#322346864#0(0"0(0#0#0"8614833664#391"    cd /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/marlonandrade/dev/iOS/TrafiPhonePresentation/Plataforma/build/Debug-iphonesimulator/Plataforma.app0#
+
