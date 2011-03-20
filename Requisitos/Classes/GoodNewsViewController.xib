@@ -94,7 +94,7 @@
 					<object class="IBUIImageView" id="514665008">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">292</int>
-						<string key="NSFrame">{{20, 149}, {280, 170}}</string>
+						<string key="NSFrame">{{20, 118}, {280, 254}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<int key="IBUIContentMode">1</int>
 						<bool key="IBUIUserInteractionEnabled">NO</bool>
@@ -241,7 +241,7 @@
 					<bool key="EncodedWithXMLCoder">YES</bool>
 					<string>GoodNewsViewController</string>
 					<string>UIResponder</string>
-					<string>{{859, 326}, {320, 480}}</string>
+					<string>{{517, 206}, {320, 480}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -530,7 +530,7 @@
 			<object class="NSMutableArray" key="dict.values">
 				<bool key="EncodedWithXMLCoder">YES</bool>
 				<string>{250, 105}</string>
-				<string>{320, 298}</string>
+				<string>{512, 512}</string>
 				<string>{48, 48}</string>
 				<string>{48, 48}</string>
 			</object>
